@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>GPSoftware.Web.Optimization</id>
+    <version>1.0.0</version>
+    <title>System Web Optimization Bundle using NUglify</title>
+    <authors>GPsoftware</authors>
+    <owners>GPsoftware</owners>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/gpcaretti/System.Web.Optimization.Fix</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>System Web Optimization Bundle using NUglify</description>
+    <releaseNotes>First version</releaseNotes>
+    <copyright>Copyright GPsoftware 2020</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.2" />
+    </dependencies>
+  </metadata>
+</package>
