@@ -11,11 +11,11 @@ using System.Web;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GPSoftware.ScriptBundle")]
+[assembly: AssemblyTitle("GPSoftware.Web.Optimization")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("GP software engineering")]
-[assembly: AssemblyProduct("GPSoftware.ScriptBundle")]
+[assembly: AssemblyProduct("GPSoftware.Web.Optimization")]
 [assembly: AssemblyCopyright("Copyright © GP software engineering 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -29,7 +29,7 @@ using System.Web;
 [assembly: CLSCompliant(true)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("43798d99-9806-4f8e-21c2-bc1ac93a4a33")]
+[assembly: Guid("43798d99-9806-4f8e-21c2-b01af95a4a27")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -40,11 +40,11 @@ using System.Web;
 //
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
-[assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyFileVersion("1.0")]
+[assembly: AssemblyVersion("1.1.0.6")]
+[assembly: AssemblyFileVersion("1.1.0.6")]
 [assembly: AssemblyMetadata("Serviceable", "True")]
 
-[assembly: PreApplicationStartMethod(typeof(System.Web.Optimization.PreApplicationStartCode), "Start")]
+[assembly: PreApplicationStartMethod(typeof(GPSoftware.Web.Optimization.PreApplicationStartCode), "Start")]
 
 [assembly: InternalsVisibleTo("SystemWebOptimizationUnitTest")]
 [assembly: InternalsVisibleTo("Microsoft.AspNet.Web.Optimization.WebForms")]

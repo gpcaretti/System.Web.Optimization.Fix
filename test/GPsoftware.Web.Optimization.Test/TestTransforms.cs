@@ -1,6 +1,6 @@
 ﻿using System.Web.Optimization;
 
-namespace GPsoftware.Web.Optimization.Test {
+namespace GPSoftware.Web.Optimization.Test {
     public class UppercaseTransform : IItemTransform {
         public string Process(string itemVirtualPath, string input) {
             return input.ToUpperInvariant();

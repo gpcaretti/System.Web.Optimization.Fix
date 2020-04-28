@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Web.Optimization;
 
-namespace GPsoftware.Web.Optimization {
+namespace GPSoftware.Web.Optimization {
 
     /// <summary>
     /// Represents a bundle that does CSS minification.

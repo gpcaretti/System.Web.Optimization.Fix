@@ -9,10 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1D66C4E5-4C2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{C2254BBA-9321-4BB0-9985-886941EB7996}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPsoftware.Web.Optimization.Test", "test\GPsoftware.Web.Optimization.Test\GPsoftware.Web.Optimization.Test.csproj", "{E19167F0-1579-4931-94F7-21A7128569EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPSoftware.Web.Optimization.Test", "test\GPsoftware.Web.Optimization.Test\GPSoftware.Web.Optimization.Test.csproj", "{E19167F0-1579-4931-94F7-21A7128569EF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{81BB8242-0360-4DE9-A70B-36E375F7A123}"
 	ProjectSection(SolutionItems) = preProject
+		src\GPSoftware.Web.Optimization\GPSoftware.Web.Optimization.nuspec = src\GPSoftware.Web.Optimization\GPSoftware.Web.Optimization.nuspec
 		README.md = README.md
 	EndProjectSection
 EndProject

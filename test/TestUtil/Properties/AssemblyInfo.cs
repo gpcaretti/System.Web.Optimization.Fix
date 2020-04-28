@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("GP software engineering")]
 [assembly: AssemblyProduct("TestUtil")]
-[assembly: AssemblyCopyright("Copyright © GPsoftware 2020")]
+[assembly: AssemblyCopyright("Copyright © GPSoftware 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

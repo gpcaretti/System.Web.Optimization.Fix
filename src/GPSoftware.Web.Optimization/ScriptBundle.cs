@@ -2,7 +2,7 @@
 using System;
 using System.Web.Optimization;
 
-namespace GPsoftware.Web.Optimization {
+namespace GPSoftware.Web.Optimization {
 
     /// <summary>
     /// Bundle designed specifically for processing JavaScript

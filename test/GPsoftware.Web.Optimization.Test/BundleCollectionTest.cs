@@ -6,7 +6,7 @@ using System.Web.TestUtil;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 
-namespace GPsoftware.Web.Optimization.Test {
+namespace GPSoftware.Web.Optimization.Test {
 
     [TestClass]
     public class BundleCollectionTest {

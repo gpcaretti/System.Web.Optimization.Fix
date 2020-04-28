@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Web.Optimization;
-using GPsoftware.Web.Optimization.Resources;
+using GPSoftware.Web.Optimization.Resources;
 using NUglify;
 
-namespace GPsoftware.Web.Optimization {
+namespace GPSoftware.Web.Optimization {
 
     /// <summary>
     /// Bundle transformation that performs CSS minification.

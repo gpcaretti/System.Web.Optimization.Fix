@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GPsoftware.Web.Optimization.Resources {
+namespace GPSoftware.Web.Optimization.Resources {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace GPsoftware.Web.Optimization.Resources {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("GPsoftware.Web.Optimization.Fix.Resources.OptimizationResources", typeof(OptimizationResources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("GPSoftware.Web.Optimization.Resources.OptimizationResources", typeof(OptimizationResources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
